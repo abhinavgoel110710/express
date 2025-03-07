@@ -116,6 +116,7 @@ npm start
   you can quickly craft your perfect framework.
 
 ## Examples
+# hi
 
   To view the examples, clone the Express repository:
 
